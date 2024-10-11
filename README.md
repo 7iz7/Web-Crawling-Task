@@ -18,8 +18,5 @@ To run this project, you will need to have Python 3.x installed, along with the 
 - `HuggingFaceEmbeddings`
 - `langchain`
 
-You can easily install these libraries using pip:
 
-```bash
-pip install requests beautifulsoup4 selenium pandas markdown chromadb langchain
 
